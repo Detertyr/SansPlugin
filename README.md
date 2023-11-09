@@ -1,2 +1,2 @@
 # SansPlugin
-Changes the ringtone with Better Discord to a Megalovania style
+Changes the ringtone with Better Discord to a Megalovania.
